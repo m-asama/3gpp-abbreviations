@@ -1,0 +1,169 @@
+FrontText,BackText,Comment,FrontTextLanguage,BackTextLanguage
+(R)AN,(Radio) Access Network,US English,en-US,en-US
+5G GM,5G Grand Master,US English,en-US,en-US
+5G VN,5G Virtual Network,US English,en-US,en-US
+5G-AN,5G Access Network,US English,en-US,en-US
+5G-AN PDB,5G Access Network Packet Delay Budget,US English,en-US,en-US
+5G-BRG,5G Broadband Residential Gateway,US English,en-US,en-US
+5G-CRG,5G Cable Residential Gateway,US English,en-US,en-US
+5G-EIR,5G-Equipment Identity Register,US English,en-US,en-US
+5G-GUTI,5G Globally Unique Temporary Identifier,US English,en-US,en-US
+5G-RG,5G Residential Gateway,US English,en-US,en-US
+5G-S-TMSI,5G S-Temporary Mobile Subscription Identifier,US English,en-US,en-US
+5GC,5G Core Network,US English,en-US,en-US
+5GLAN,5G Local Area Network,US English,en-US,en-US
+5GS,5G System,US English,en-US,en-US
+5QI,5G QoS Identifier,US English,en-US,en-US
+AF,Application Function,US English,en-US,en-US
+AMF,Access and Mobility Management Function,US English,en-US,en-US
+ANDSP,Access Network Discovery & Selection Policy,US English,en-US,en-US
+ARP,Allocation and Retention Priority,US English,en-US,en-US
+AS,Access Stratum,US English,en-US,en-US
+ASP,Application Service Provider,US English,en-US,en-US
+ATSSS,"Access Traffic Steering, Switching, Splitting",US English,en-US,en-US
+ATSSS-LL,ATSSS Low-Layer,US English,en-US,en-US
+AUSF,Authentication Server Function,US English,en-US,en-US
+BMCA,Best Master Clock Algorithm,US English,en-US,en-US
+BSF,Binding Support Function,US English,en-US,en-US
+CAG,Closed Access Group,US English,en-US,en-US
+CAPIF,Common API Framework for 3GPP northbound APIs,US English,en-US,en-US
+CHF,Charging Function,US English,en-US,en-US
+CN PDB,Core Network Packet Delay Budget,US English,en-US,en-US
+CP,Control Plane,US English,en-US,en-US
+DAPS,Dual Active Protocol Stacks,US English,en-US,en-US
+DL,Downlink,US English,en-US,en-US
+DN,Data Network,US English,en-US,en-US
+DNAI,DN Access Identifier,US English,en-US,en-US
+DNN,Data Network Name,US English,en-US,en-US
+DRX,Discontinuous Reception,US English,en-US,en-US
+DS-TT,Device-side TSN translator,US English,en-US,en-US
+EBI,EPS Bearer Identity,US English,en-US,en-US
+ePDG,evolved Packet Data Gateway,US English,en-US,en-US
+EUI,Extended Unique Identifier,US English,en-US,en-US
+FAR,Forwarding Action Rule,US English,en-US,en-US
+FN-BRG,Fixed Network Broadband RG,US English,en-US,en-US
+FN-CRG,Fixed Network Cable RG,US English,en-US,en-US
+FN-RG,Fixed Network RG,US English,en-US,en-US
+FQDN,Fully Qualified Domain Name,US English,en-US,en-US
+GFBR,Guaranteed Flow Bit Rate,US English,en-US,en-US
+GMLC,Gateway Mobile Location Centre,US English,en-US,en-US
+GPSI,Generic Public Subscription Identifier,US English,en-US,en-US
+GUAMI,Globally Unique AMF Identifier,US English,en-US,en-US
+H-PCF,A PCF in the HPLMN,US English,en-US,en-US
+H-UDR,A UDR in the HPLMN,US English,en-US,en-US
+HR,Home Routed (roaming),US English,en-US,en-US
+I-SMF,Intermediate SMF,US English,en-US,en-US
+I-UPF,Intermediate UPF,US English,en-US,en-US
+IAB,Integrated access and backhaul,US English,en-US,en-US
+IMEI/TAC,IMEI Type Allocation Code,US English,en-US,en-US
+IPUPS,Inter PLMN UP Security,US English,en-US,en-US
+LADN,Local Area Data Network,US English,en-US,en-US
+LBO,Local Break Out (roaming),US English,en-US,en-US
+LMF,Location Management Function,US English,en-US,en-US
+LoA,Level of Automation,US English,en-US,en-US
+LPP,LTE Positioning Protocol,US English,en-US,en-US
+LRF,Location Retrieval Function,US English,en-US,en-US
+MCX,Mission Critical Service,US English,en-US,en-US
+MDBV,Maximum Data Burst Volume,US English,en-US,en-US
+MFBR,Maximum Flow Bit Rate,US English,en-US,en-US
+MICO,Mobile Initiated Connection Only,US English,en-US,en-US
+MPS,Multimedia Priority Service,US English,en-US,en-US
+MPTCP,Multi-Path TCP Protocol,US English,en-US,en-US
+N3IWF,Non-3GPP InterWorking Function,US English,en-US,en-US
+N5CW,Non-5G-Capable over WLAN,US English,en-US,en-US
+NAI,Network Access Identifier,US English,en-US,en-US
+NBIFOM,Network-based IP flow mobility,US English,en-US,en-US
+NEF,Network Exposure Function,US English,en-US,en-US
+NF,Network Function,US English,en-US,en-US
+NGAP,Next Generation Application Protocol,US English,en-US,en-US
+NID,Network identifier,US English,en-US,en-US
+NPN,Non-Public Network,US English,en-US,en-US
+NR,New Radio,US English,en-US,en-US
+NRF,Network Repository Function,US English,en-US,en-US
+NSI ID,Network Slice Instance Identifier,US English,en-US,en-US
+NSSAA,Network Slice-Specific Authentication and Authorization,US English,en-US,en-US
+NSSAAF,Network Slice-Specific Authentication and Authorization Function,US English,en-US,en-US
+NSSAI,Network Slice Selection Assistance Information,US English,en-US,en-US
+NSSF,Network Slice Selection Function,US English,en-US,en-US
+NSSP,Network Slice Selection Policy,US English,en-US,en-US
+NSWO,Non-Seamless WLAN Offload,US English,en-US,en-US
+NW-TT,Network-side TSN translator,US English,en-US,en-US
+NWDAF,Network Data Analytics Function,US English,en-US,en-US
+OAM,Operation Administration and Maintenance,US English,en-US,en-US
+OCS,Online Charging System,US English,en-US,en-US
+PCC,Policy and Charging Control,US English,en-US,en-US
+PCF,Policy Control Function,US English,en-US,en-US
+PDB,Packet Delay Budget,US English,en-US,en-US
+PDR,Packet Detection Rule,US English,en-US,en-US
+PDU,Protocol Data Unit,US English,en-US,en-US
+PEI,Permanent Equipment Identifier,US English,en-US,en-US
+PER,Packet Error Rate,US English,en-US,en-US
+PFD,Packet Flow Description,US English,en-US,en-US
+PFDF,Packet Flow Description Function,US English,en-US,en-US
+PNI-NPN,Public Network Integrated Non-Public Network,US English,en-US,en-US
+PPD,Paging Policy Differentiation,US English,en-US,en-US
+PPF,Paging Proceed Flag,US English,en-US,en-US
+PPI,Paging Policy Indicator,US English,en-US,en-US
+PRA,Presence Reporting Area,US English,en-US,en-US
+PSA,PDU Session Anchor,US English,en-US,en-US
+PTP,Precision Time Protocol,US English,en-US,en-US
+QFI,QoS Flow Identifier,US English,en-US,en-US
+QoE,Quality of Experience,US English,en-US,en-US
+RACS,Radio Capabilities Signalling optimisation,US English,en-US,en-US
+RAN,Radio Access Network,US English,en-US,en-US
+RG,Residential Gateway,US English,en-US,en-US
+RIM,Remote Interference Management,US English,en-US,en-US
+RQA,Reflective QoS Attribute,US English,en-US,en-US
+RQI,Reflective QoS Indication,US English,en-US,en-US
+RSN,Redundancy Sequence Number,US English,en-US,en-US
+S-NSSAI,Single Network Slice Selection Assistance Information,US English,en-US,en-US
+SA NR,Standalone New Radio,US English,en-US,en-US
+SBA,Service Based Architecture,US English,en-US,en-US
+SBI,Service Based Interface,US English,en-US,en-US
+SCP,Service Communication Proxy,US English,en-US,en-US
+SD,Slice Differentiator,US English,en-US,en-US
+SEAF,Security Anchor Functionality,US English,en-US,en-US
+SEPP,Security Edge Protection Proxy,US English,en-US,en-US
+SMF,Session Management Function,US English,en-US,en-US
+SMSF,Short Message Service Function,US English,en-US,en-US
+SN,Sequence Number,US English,en-US,en-US
+SNPN,Stand-alone Non-Public Network,US English,en-US,en-US
+SSC,Session and Service Continuity,US English,en-US,en-US
+SSCMSP,Session and Service Continuity Mode Selection Policy,US English,en-US,en-US
+SST,Slice/Service Type,US English,en-US,en-US
+SUCI,Subscription Concealed Identifier,US English,en-US,en-US
+SUPI,Subscription Permanent Identifier,US English,en-US,en-US
+SV,Software Version,US English,en-US,en-US
+TNAN,Trusted Non-3GPP Access Network,US English,en-US,en-US
+TNAP,Trusted Non-3GPP Access Point,US English,en-US,en-US
+TNGF,Trusted Non-3GPP Gateway Function,US English,en-US,en-US
+TNL,Transport Network Layer,US English,en-US,en-US
+TNLA,Transport Network Layer Association,US English,en-US,en-US
+TSC,Time Sensitive Communication,US English,en-US,en-US
+TSCAI,TSC Assistance Information,US English,en-US,en-US
+TSN,Time Sensitive Networking,US English,en-US,en-US
+TSN GM,TSN Grand Master,US English,en-US,en-US
+TSP,Traffic Steering Policy,US English,en-US,en-US
+TT,TSN Translator,US English,en-US,en-US
+TWIF,Trusted WLAN Interworking Function,US English,en-US,en-US
+UCMF,UE radio Capability Management Function,US English,en-US,en-US
+UDM,Unified Data Management,US English,en-US,en-US
+UDR,Unified Data Repository,US English,en-US,en-US
+UDSF,Unstructured Data Storage Function,US English,en-US,en-US
+UL,Uplink,US English,en-US,en-US
+UL CL,Uplink Classifier,US English,en-US,en-US
+UPF,User Plane Function,US English,en-US,en-US
+URLLC,Ultra Reliable Low Latency Communication,US English,en-US,en-US
+URRP-AMF,UE Reachability Request Parameter for AMF,US English,en-US,en-US
+URSP,UE Route Selection Policy,US English,en-US,en-US
+V-PCF,A PCF in the VPLMN,US English,en-US,en-US
+V-UDR,A UDR in the VPLMN,US English,en-US,en-US
+V2XP,V2X Policy,US English,en-US,en-US
+VID,VLAN Identifier,US English,en-US,en-US
+VLAN,Virtual Local Area Network,US English,en-US,en-US
+vSRVCC,video Single Radio Voice Call Continuity,US English,en-US,en-US
+W-5GAN,Wireline 5G Access Network,US English,en-US,en-US
+W-5GBAN,Wireline BBF Access Network,US English,en-US,en-US
+W-5GCAN,Wireline 5G Cable Access Network,US English,en-US,en-US
+W-AGF,Wireline Access Gateway Function,US English,en-US,en-US
+WLANSP,WLAN Selection Policy,US English,en-US,en-US
